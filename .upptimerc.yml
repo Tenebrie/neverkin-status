@@ -57,6 +57,9 @@ status-website:
       background-color: rgba(7 7 20 / 0.95) !important;
       border-bottom: 1px solid rgba(167 139 250 / 0.15) !important;
     }
+    nav a, .navbar a {
+      font-weight: bold !important;
+    }
 
     /* Links */
     a {

@@ -2,31 +2,38 @@ owner: tenebrie # Your GitHub organization or username, where this repository li
 repo: neverkin-status # The name of this repository
 
 sites:
-  - name: Staging Landing
+  - name: Landing Page
+    url: https://neverkin.com
+  - name: App Frontend
+    url: https://app.neverkin.com
+  - name: Rest API
+    url: https://app.neverkin.com/api/health
+  - name: Websockets
+    url: https://app.neverkin.com/calliope/health
+  - name: MCP Server
+    url: https://app.neverkin.com/orpheus/health
+  - name: Landing Page (Staging)
+    url: https://staging.neverkin.com
+  - name: App Frontend (Staging)
     url: https://app.staging.neverkin.com
-  - name: Staging Frontend
-    url: https://app.staging.neverkin.com
-  - name: Staging API
+  - name: Rest API (Staging)
     url: https://app.staging.neverkin.com/api/health
-  - name: Staging Websockets
+  - name: Websockets (Staging)
     url: https://app.staging.neverkin.com/calliope/health
-  - name: Staging MCP
+  - name: MCP Server (Staging)
     url: https://app.staging.neverkin.com/orpheus/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.neverkin.com
-  baseUrl: /neverkin-status
+  cname: status.neverkin.com
+  # baseUrl: /neverkin-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Neverkin
+  introTitle: "**Neverkin**"
+  introMessage: Neverkin is a worldbuilding and storytelling web application focused on the needs of writers.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/tenebrie/timelines
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

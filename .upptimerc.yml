@@ -28,12 +28,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.neverkin.com
   # baseUrl: /neverkin-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Neverkin
-  introTitle: "**Neverkin**"
-  introMessage: Neverkin is a worldbuilding and storytelling web application focused on the needs of writers.
+  logoUrl: https://raw.githubusercontent.com/Tenebrie/neverkin-status/HEAD/assets/neverkin-logo-dragon.webp
+  favicon: https://raw.githubusercontent.com/Tenebrie/neverkin-status/HEAD/assets/favicon.ico
+  name: Neverkin Status
+  introTitle: "**Neverkin** Status"
+  introMessage: This is the status page for [Neverkin](https://neverkin.com), the collaborative worldbuilding platform for writers, game masters, and creators. Organize timelines, characters, lore, and interconnected stories — all in real-time with your friends.
+  theme: dark
   navbar:
     - title: Status
       href: /
+    - title: Neverkin
+      href: https://neverkin.com
     - title: GitHub
       href: https://github.com/tenebrie/timelines

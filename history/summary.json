@@ -40,18 +40,20 @@
     "url": "https://app.neverkin.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.neverkin.com.ico",
     "slug": "rest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 92,
-    "timeWeek": 113,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 113,
+    "timeDay": 118,
+    "timeWeek": 117,
+    "timeMonth": 113,
+    "timeYear": 113,
+    "dailyMinutesDown": {
+      "2026-03-10": 0
+    }
   },
   {
     "name": "Websockets",

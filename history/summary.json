@@ -168,17 +168,19 @@
     "url": "https://app.staging.neverkin.com/orpheus/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.neverkin.com.ico",
     "slug": "mcp-server-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 524,
-    "timeWeek": 494,
-    "timeMonth": 313,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 413,
+    "timeWeek": 470,
+    "timeMonth": 312,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2026-05-23": 0
+    }
   }
 ]

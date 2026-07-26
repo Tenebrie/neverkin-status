@@ -96,10 +96,10 @@
     "url": "https://staging.neverkin.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.neverkin.com.ico",
     "slug": "landing-page-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 773,
@@ -107,17 +107,19 @@
     "timeWeek": 855,
     "timeMonth": 836,
     "timeYear": 773,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 1
+    }
   },
   {
     "name": "App Frontend (Staging)",
     "url": "https://app.staging.neverkin.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.neverkin.com.ico",
     "slug": "app-frontend-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
@@ -125,17 +127,19 @@
     "timeWeek": 484,
     "timeMonth": 459,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 1
+    }
   },
   {
     "name": "Rest API (Staging)",
     "url": "https://app.staging.neverkin.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.neverkin.com.ico",
     "slug": "rest-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -143,16 +147,18 @@
     "timeWeek": 453,
     "timeMonth": 430,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 1
+    }
   },
   {
     "name": "Websockets (Staging)",
     "url": "https://app.staging.neverkin.com/calliope/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.neverkin.com.ico",
     "slug": "websockets-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,16 +167,18 @@
     "timeWeek": 446,
     "timeMonth": 436,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-26": 0
+    }
   },
   {
     "name": "MCP Server (Staging)",
     "url": "https://app.staging.neverkin.com/orpheus/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.neverkin.com.ico",
     "slug": "mcp-server-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -180,7 +188,8 @@
     "timeMonth": 425,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2026-05-23": 61
+      "2026-05-23": 61,
+      "2026-07-26": 0
     }
   }
 ]
